@@ -15,6 +15,12 @@ then it is easy to use,you can use asyn loading as follows:
  and also syn loading by:
  
     SimpleImageLoader.getSingleton(mContext).loadBitmapSync(targetImageView,url);
-    
-this is the demo screenshot using simpleimageloader:
+
+## this is the demo screenshot using simpleimageloader:
 <img src="screenshot/Screenshot.png" width="40%" />
+## about me
+A sincerer android learner,you can contact me at  
+coder_jason@163.com    
+QQ:1627642910  
+if you find any problems in simpleimageloader,please let me konw it.  
+looking forward to your pr,and by the way,may I have your star please 0.0
