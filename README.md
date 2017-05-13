@@ -18,6 +18,7 @@ then it is easy to use,you can use asyn loading as follows:
 
 ## this is the demo screenshot using simpleimageloader:
 <img src="screenshot/Screenshot.png" width="40%" />
+
 ## about me
 A sincerer android learner,you can contact me at  
 coder_jason@163.com    
